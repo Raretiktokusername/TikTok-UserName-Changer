@@ -137,6 +137,16 @@ python main.py
 
 This project is protected under the [RSS Store](https://discord.gg/VzSHHHAsTG) License. For more details, refer to the [LICENSE](https://github.com/Beshoo-o/TikTok-UserName-Changer/blob/main/LICENSE) file.
 
+---
+
+## ❓ Help
+
+If you encounter any issues or have questions regarding the TikTok UserName Changer Tool, please don't hesitate to reach out to us. You can contact us through the following channels:
+
+- **[Join Discord](https://discord.gg/VzSHHHAsTG)**: For help.
+
+We are here to help and will respond as quickly as possible.
+
 [**Return Up**](#-quick-links)
 
 ---
