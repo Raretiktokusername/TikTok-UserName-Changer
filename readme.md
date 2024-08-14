@@ -1,11 +1,24 @@
-## Hi this is a TikTok username changer, it used python to run.
-- if face any issues please contact me at [Discord](https://discord.com/users/594841545929129985)
+## 👋🏻 Hi, Welcome to the TikTok Username Changer!
 
+This tool allows you to change your TikTok username using Python.
 
-## How to Use
+## ⚙️ Code Language
+- **Python**
 
-**Install Dependencies**:
-   Make sure you have installed all required packages. You can install them using:
-```bash
-   pip install -r requirements.txt
-```
+## 🚀 Getting Started
+
+1. **Install Python**: [Download and install Python](https://www.python.org/downloads/)
+2. **Extract the Files**: Unzip the provided files.
+3. **Open the Console**: Navigate to the project directory.
+4. **Install Dependencies**: Run `pip install -r requirements.txt` in the console.
+5. **Run the Script**: Execute `Start.bat` to start the tool.
+6. **Inputs**: The script will prompt you to enter your TikTok `sectionID` to change your username.
+
+## 📝 Note
+- **Ensure you have the correct permissions** to change your TikTok username.
+
+### ❓ Need Help?
+
+If you encounter any issues, please reach out to me on Discord:
+
+[![Join our Discord](https://img.shields.io/badge/Join%20our%20Discord-7289DA?style=for-the-badge&logo=discord)](https://discord.gg/VzSHHHAsTG)
