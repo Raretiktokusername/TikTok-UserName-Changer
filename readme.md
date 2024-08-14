@@ -34,11 +34,9 @@
 > - [🚀 Getting Started](#-getting-started)
 >   - [⚙️ Installation](#️-installation)
 >   - [🤖 Running TikTok-UserName-Changer](#-running-TikTok-UserName-Changer)
->   - [🧪 Tests](#-tests)
 > - [🛠 Project Roadmap](#-project-roadmap)
-> - [🤝 Contributing](#-contributing)
 > - [📄 License](#-license)
-> - [👏 Acknowledgments](#-acknowledgments)
+> - [❓ Help](#-help)
 
 ---
 
