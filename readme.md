@@ -12,10 +12,10 @@
   <img src="https://img.shields.io/badge/Join%20our%20Discord-7289DA?style=for-the-badge&logo=discord" alt="Join our Discord">
 </a> </p>
 <p align="center">
-	<img src="https://img.shields.io/github/license/Beshoo-o/TikTok-UserName-Changer.git?style=flat&color=0080ff" alt="license">
-	<img src="https://img.shields.io/github/last-commit/Beshoo-o/TikTok-UserName-Changer.git?style=flat&logo=git&logoColor=white&color=0080ff" alt="last-commit">
-	<img src="https://img.shields.io/github/languages/top/Beshoo-o/TikTok-UserName-Changer.git?style=flat&color=0080ff" alt="repo-top-language">
-	<img src="https://img.shields.io/github/languages/count/Beshoo-o/TikTok-UserName-Changer.git?style=flat&color=0080ff" alt="repo-language-count">
+	<img src="https://img.shields.io/github/license/Beshoo-o/TikTok-UserName-Changer?style=flat&color=0080ff" alt="license">
+	<img src="https://img.shields.io/github/last-commit/Beshoo-o/TikTok-UserName-Changer?style=flat&logo=git&logoColor=white&color=0080ff" alt="last-commit">
+	<img src="https://img.shields.io/github/languages/top/Beshoo-o/TikTok-UserName-Changer?style=flat&color=0080ff" alt="repo-top-language">
+	<img src="https://img.shields.io/github/languages/count/Beshoo-o/TikTok-UserName-Changer?style=flat&color=0080ff" alt="repo-language-count">
 <p>
 <p align="center">
 		<em>Developed with the software and tools below.</em>
