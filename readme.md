@@ -1,5 +1,5 @@
 ## Hi this is a arabic username tiktok changer, it used python to run.
-- if face any issues please contact me at (Discord)[https://discord.com/users/594841545929129985]
+- if face any issues please contact me at [Discord](https://discord.com/users/594841545929129985)
 
 
 ## How to Use
