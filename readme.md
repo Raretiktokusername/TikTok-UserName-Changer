@@ -133,7 +133,7 @@ python main.py
 
 ## 📄 License
 
-This project is protected under the [RSS Store](https://discord.gg/VzSHHHAsTG) License. For more details, refer to the [LICENSE](https://github.com/Beshoo-o/TikTok-UserName-Changer/blob/main/LICENSE) file.
+This project is protected under the [RSS Dev](https://discord.gg/VzSHHHAsTG) License. For more details, refer to the [LICENSE](https://github.com/Beshoo-o/TikTok-UserName-Changer/blob/main/LICENSE) file.
 
 ---
 
